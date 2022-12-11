@@ -16,6 +16,7 @@
 /Assets/Qualcomm/Vuforia
 # Large files
 Assets/Editor/Migration/com.ptc.vuforia.engine-10.11.3.tgz
+Packages/com.ptc.vuforia.engine-10.11.3.tgz
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
